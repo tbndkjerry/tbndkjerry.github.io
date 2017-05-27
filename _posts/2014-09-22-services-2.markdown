@@ -1,0 +1,8 @@
+---
+layout: default
+img: dog.png
+category: Services
+title: Ransomware
+description: |
+---
+  Now days ransomware doesn’t just affect desktop machines or laptops; it also targets mobile phones. 
