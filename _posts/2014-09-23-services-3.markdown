@@ -34,7 +34,7 @@ There is a rising trend of ransomware affecting computers, particularly those th
 </ul>
 <h4>Protect your browser</h4>
 <p >Protecting your browser can also help. Always keep your system software and browser version updated. A small loophole in software might cost you your system. You can also install a good quality Antivirus software that may block pop-ups, and warn you before opening infected websites.</p>
-<h4>Backup you data</h4>
+<h4>Backup your data</h4>
 <p >We know, you will not leave any stone unturned in order to protect your data. But still, the best practice should be to regularly create backup of your data. Creating a backup in Cloud would be the best. Cloud backup services save and protect your data and makes it available if any disaster strikes.</p>
 <h4>Aware yourself and the people around you</h4>
 <p >Ransomware is not a new malware, the first cases were found in Russia in the year 2005. But at that time, the victims were lesser. But gradually, the cybercriminals started using it as a good weapon for money extortion. Hence, each one near you, whether a personal home computer user or an office colleague, should know about this malware and take every possible step to protect the system.</p>
