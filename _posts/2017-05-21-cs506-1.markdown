@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 img: |
@@ -28,4 +29,36 @@ We need to be aware of such effects on the next generation.
 
 Techno-Criticism. (n.d.). Retrieved May 17, 2017, from http://www.publicsphereproject.org/node/238
 
+=======
+---
+layout: default
+img: |
+category: CS506
+title: Techno-criticism (A case of Uganda)<br/>
+description: |
+---
+<h4>Problem:</h4>
+
+An unquestioning reliance on technology can create a culture where people expect technological solutions to all problems. Technology can put decisions in the hands of the technologists, degrade public discussion, and divert attention, discussion, and funds. It often alters power relations between people, generally amplifying the power for some. We need to understand and anticipate to some degree the effects of specific technological artifacts and the broader implications as well. (Douglas Schuler: Techno-Criticism -39).
+
+Technology has had a big impact on the way people think and behave to an extent that an educated person having a phone with a word processor may not want to bother his/her brain remembering a spelling of a particular word simply because the word processor will auto-correct (spell-check) and give alternative to select. This puts a person in situation of having serious spelling mistakes in the absence of the technology and not questioning how technologists arrived to an idea of making a word processor. Some people now days cannot do without word processors!
+
+The introduction of E-learning in secondary schools (also Tertiary Institutions) has brought big questions of whether social media platforms and applications like Facebook and Whatsup can be part of E-learning components. Besides that, Internet access in schools puts students in danger of information overload and if not controlled may lead to obtaining information from unreliable sources and in the end a question may arise whether students are free to download some study materials like video tutorials. Although such technologies help improve understanding, the use of these technologies often bring new problems that only technology can solve. For instance, students will not write down notes given by the teacher simply because they can find the same information on E-learning and Internet whenever they what to access it.
+
+As ATMs (Automated Teller Machines) and Mobile Money electronic transactions are growing in numbers country-wide, there is reduction in the ability of the user to remember how to write down the amount of money to be withdrawn or deposited in words. This is because these technologies only need figures to process the transactions. Yet we all know that technology breaks down and at one point in time the user may need to withdraw a big sum of money at the counter!
+
+Ironically everyone living in Uganda today has been confronted with some sort of technology that is likely to change the lifestyle they will live tomorrow.
+
+
+<h4>Solution:</h4>
+
+Having technology should not be an excuse for ignorance, therefore people need to understand or at least anticipate to some degree not only the effects of specific technological artifacts but the socio-technological systems that they support or destabilize (Douglas Schuler: Techno-Criticism -39).
+
+We need to be aware of such effects on the next generation.
+
+<h4>Reference:</h4>
+
+Techno-Criticism. (n.d.). Retrieved May 17, 2017, from http://www.publicsphereproject.org/node/238
+
+>>>>>>> origin/master
 <a id='Ransomware'></a>
