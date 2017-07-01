@@ -17,9 +17,9 @@ It’s also used to optimize business processes. Retailers are able to optimize 
 <br/>
 <h4>Problem</h4>
 <p>Some people are concerned about privacy, as more and more details of our lives are being recorded and analyzed by businesses, agencies, and governments every day. 
-<p>Collecting too much data can create big data security headaches. Imagine if this data lands in wrong hands, then the level of criminality surpasses its intended purpose, ruining business Organizations, Governments and Families. </p>
+<p>Collecting too much data can create big data security headaches. Imagine if this data lands in wrong hands, then the level of criminality surpasses its (Big Data) intended purpose, ruining business Organizations, Governments and Families. </p>
 
-<p>Big data misuse is rampant in Uganda these days more especially when it is in the hands of desperate companies. I occasionally receive SMS text messages from Telecom Companies advertising their products of which I do not contest  but sending unsolicited love SMS text asking people to link them to lovers is wrong. </p>
+<p>Big data misuse is rampant especially when the rules and regulations are weak. I occasionally receive SMS text messages from Telecom Companies advertising their products of which I do not contest  but sending unsolicited love SMS text asking people to link them to lovers is wrong. </p>
 <p>Those concerns are real and not to be taken lightly, and I believe that best practices, rules, and regulations will evolve alongside the big data technology to protect individuals.</p>
 <br/>
 <h4>References</h4>
