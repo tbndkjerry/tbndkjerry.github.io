@@ -1,7 +1,7 @@
 ---
 layout: default
-img: ipad.png
-category: Services
+img: |
+category: CS506
 title: Techno-criticism (A case of Uganda)<br/>
 description: |
 ---
@@ -27,3 +27,5 @@ We need to be aware of such effects on the next generation.
 <h4>Reference:</h4>
 
 Techno-Criticism. (n.d.). Retrieved May 17, 2017, from http://www.publicsphereproject.org/node/238
+
+<a id='Ransomware'></a>

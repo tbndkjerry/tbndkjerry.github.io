@@ -1,0 +1,30 @@
+---
+layout: default
+img: None
+category: CS506
+title: What is Big Data?
+description: |
+---
+Big Data is a term used for data sets that are so large or complex that traditional data processing mechanisms are inadequate to deal with them. The challenges of the big data include: analysis, capture, data curation, search, sharing, storage, transfer, visualization and information privacy. <a href="https://en.wikipedia.org/wiki/Big_data" target="_blank">(Wikipedia)</a>.
+<p>Data provides information. Accumulation of information is equivalent to accumulation of power and achieving more control over the related events and results. Enormous volume of data with diverse nature is generated in the modern world  that storing them and analysing them to get the required output had become a big challenge. The data could be anything from a real time transaction, climatic conditions, clicks on computers, mobile logs, posts or tweets from social media and much more. If the data collected becomes impossible for a single machine store and process then such data could be named as Big Data.</p>
+<br/>
+<h4> Application of Big data </h4>
+<p>Using big data, Telecom companies (like UTL, MTN, Airtel, Africel etc) can predict if and when a customer might switch carriers, Government Institutions/Ministries can make Financial Year Budget estimates and Companies like Google, Uber, Facebook and Amazon nowadays rely on big data to study their customer or user preferences. </p>
+
+It’s also used to optimize business processes. Retailers are able to optimize their stock levels based on what’s trending on social media, what people are searching for on the web, or even weather forecasts. Supply chains can be optimized so that delivery drivers use less fuel and reach customers faster.
+
+<p> But big data goes way beyond consumerism. Big data analytics enable us to find new cures and better understand and predict the spread of diseases. For example <a href="http://www.nda.or.ug/" target="_blank">Uganda National Drug Authority</a> relies on field data to control the manufacture, importation and distribution of Drugs in the country.  Uganda Police force and Other security Agents use big data tools to catch criminals and even predict criminal activity and also Banks use big data analytics it to detect fraudulent transactions. A number of cities are even using big data analytics with the aim of turning themselves into Smart Cities, where traffic signals (Lights) rely on big data to predict traffic volumes and operate to minimize jams. </p>
+<br/>
+<h4>Problem</h4>
+<p>Some people are concerned about privacy, as more and more details of our lives are being recorded and analyzed by businesses, agencies, and governments every day. 
+<p>Collecting too much data can create big data security headaches. Imagine if this data lands in wrong hands, then the level of criminality surpasses its intended purpose, ruining business Organizations, Governments and Families. </p>
+
+<p>Big data misuse is rampant in Uganda these days more especially when it is in the hands of desperate companies. I occasionally receive SMS text messages from Telecom Companies advertising their products of which I do not contest  but sending unsolicited love SMS text asking people to link them to lovers is wrong. </p>
+<p>Those concerns are real and not to be taken lightly, and I believe that best practices, rules, and regulations will evolve alongside the big data technology to protect individuals.</p>
+<br/>
+<h4>References</h4>
+<br/>
+1. Big data. (2017, June 30). Retrieved July 01, 2017, from https://en.wikipedia.org/wiki/Big_data 
+<br/>
+2. How is Big Data Used in Practice? 10 Use Cases Everyone Must Read. (n.d.). Retrieved July 01, 2017, from https://www.ap-institute.com/big-data-articles/how-is-big-data-used-in-practice-10-use-cases-everyone-should-read 
+
