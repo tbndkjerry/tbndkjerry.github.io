@@ -5,7 +5,7 @@ category: CS506
 title: What is Ransomware?
 description: |
 ---
-Ransomware is a <a href="https://en.wikipedia.org/wiki/Computer_virus" target="_blank">computer virus</a> that will encrypt the files on your computer or mobile device and prevent you from accessing them unless you pay a fee (“ransom”). The most common targets are pictures, documents, and other personal data. There is no guarantee that you will get your files back after paying the ransom.
+Ransomware is a <a href="https://en.wikipedia.org/wiki/Computer_virus" target="_blank">computer virus</a> that will encrypt files on your computer or mobile device and prevent you from accessing them unless you pay a fee (“ransom”). The most common targets are pictures, documents, and other personal data. There is no guarantee that you will get your files back after paying the ransom.
 There is a rising trend of ransomware affecting computers, particularly those that run Microsoft Windows Operating Systems. This virus will attack all files accessible from your computer, including those on Administrator Account and Local Drive. Unless you have an external backup, your files will be unrecoverable.
 <p >The horrible state of inaccessible files and computer systems, make ransomware one of the most dangerous malwares of our time. The market has witnessed two common types of such viruses:</p>
 <ul>
