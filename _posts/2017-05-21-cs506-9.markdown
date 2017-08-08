@@ -14,8 +14,8 @@ description: |
 <p><strong>...the move to 5G </strong></p>
 <p><strong>5G</strong> Means <strong>5th generation mobile networks </strong>or <strong>5th generation wireless systems.</strong> These are the proposed next telecommunications standards beyond the current 4G/IMT-Advanced standards.
 5G planning aims at higher capacity than current 4G, allowing a higher density of mobile broadband users, and supporting device-to-device, ultra reliable, and massive machine communications.</p>
-<p>As you can witness from the previous technologies, the move to 5G is being fueled by the steady increase in data traffic and there is need to provide flexible solutions that can get to the  market quickly and within cost requirements.</p>
-<p>It is clear 5G is going to happen but it is not very clear when it will arrive. However, No 5G discussion would be complete without some commentary on Internet of Thing.</p>
+<p>As you can witness from the previous technologies (discussed above), the move to 5G is being fueled by the steady increase in data traffic and there is need to provide flexible solutions that can get to the  market quickly and within cost requirements.</p>
+<p>It is clear 5G is in the pipeline but it is not very clear when it will arrive. However, we can not have a complete discussion of 5G without writing about Internet of Things.</p>
 <p><strong>Internet of Things (IoT)</strong></p>
 <p>This is the concept of basically connecting any device with an on and off switch to the Internet (and/or to each other). This includes everything from cellphones, Fridges, washing machines, headphones, lamps, wearable devices and almost anything else you can think of.  This also applies to components of machines, for example a jet engine of an airplane or boda boda cycles. As mentioned, if it has an on and off switch then chances are it can be a part of the IoT. </p>
 
