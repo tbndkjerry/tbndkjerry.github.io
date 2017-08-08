@@ -5,4 +5,4 @@ category: CS506
 title: Mobile Computing & IoT
 description: |
 ---
-... 
+Mobile devices are redefining who, and what, makes money in technology. 

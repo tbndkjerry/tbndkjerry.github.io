@@ -5,5 +5,24 @@ category: CS506
 title: Mobile Computing & Internet of Things
 description: |
 ---
-...
+<strong>Mobile Computing</strong> is a technology that allows transmission of data, voice and video via a computer or any other wireless enabled device without having to be connected to a fixed physical link to electricity or other computers. We can simply understand it as the use of a wireless network infrastructure to provide anytime, anywhere communications and access to information.
+<p>The most familiar aspect of mobile computing technology is the hand phone. About two decades ago, a hand phone was bulky and was only used for voice communication. It was merely an extension of the fixed line telephony that allowed users to keep in touch with colleagues. Now the hand phone is not only used for voice communication, it is also used to send text and multimedia messages. Future mobile devices will not only enable Internet access, but will also support high-speed data services.</p>
+<p><strong>Pervasive computing</strong></p>
+<p><strong>Pervasive</strong> means “EXISTING EVERYWHERE”. So <strong>Pervasive computing</strong> is an emerging trend associated with embedding microprocessors in day-to-day objects, allowing them to communicate information. Pervasive Computing devices are tiny, invisible microprocessors embedded in any type of objects like clothes, home, cars, watches etc. Also known as <strong>Ubiquitous Computing</strong>.
+</p>
+<p>Pervasive computing also has a number of applications, which range from home care and health, to geographical tracking and intelligent transport systems. Read this article: <a href="http://www.newvision.co.ug/new_vision/news/1426611/kato-develops-boda-boda-tracking" target="_blank">Kato develops boda boda tracking system.</a></p>
+<p><strong>...the move to 5G </strong></p>
+<p><strong>5G</strong> Means <strong>5th generation mobile networks </strong>or <strong>5th generation wireless systems.</strong> These are the proposed next telecommunications standards beyond the current 4G/IMT-Advanced standards.
+5G planning aims at higher capacity than current 4G, allowing a higher density of mobile broadband users, and supporting device-to-device, ultra reliable, and massive machine communications.</p>
+<p>As you can witness from the previous technologies, the move to 5G is being fueled by the steady increase in data traffic and there is need to provide flexible solutions that can get to the  market quickly and within cost requirements.</p>
+<p>It is clear 5G is going to happen but it is not very clear when it will arrive. However, No 5G discussion would be complete without some commentary on Internet of Thing.</p>
+<p><strong>Internet of Things (IoT)</strong></p>
+<p>This is the concept of basically connecting any device with an on and off switch to the Internet (and/or to each other). This includes everything from cellphones, Fridges, washing machines, headphones, lamps, wearable devices and almost anything else you can think of.  This also applies to components of machines, for example a jet engine of an airplane or boda boda cycles. As mentioned, if it has an on and off switch then chances are it can be a part of the IoT. </p>
 
+<br/>
+<h4>References</h4>
+<br/>
+1. T. (n.d.). Mobile Computing Brief Overview. Retrieved July 15, 2017, from https://www.tutorialspoint.com/mobile_computing/mobile_computing_overview.htm  
+2. What is pervasive computing (ubiquitous computing)? - Definition from WhatIs.com. (n.d.). Retrieved July 15, 2017, from http://internetofthingsagenda.techtarget.com/definition/pervasive-computing-ubiquitous-computing   
+3. Vana, T. (2017, April 10). What, when, where – the move to 5G. Retrieved July 15, 2017, from http://blog.xcerra.com/what-when-where-the-move-to-5g/  
+3. Morgan, J. (2017, April 20). A Simple Explanation Of 'The Internet Of Things'. Retrieved July 15, 2017, from https://www.forbes.com/sites/jacobmorgan/2014/05/13/simple-explanation-internet-things-that-anyone-can-understand/#4d6112091d09

@@ -33,7 +33,6 @@ Cloud computing makes data backup, disaster recovery and business continuity eas
 <h4>References</h4>
 <br/>
 1. What is Data Science? (n.d.). Retrieved July 08, 2017, from https://datascience.berkeley.edu/about/what-is-data-science/  
-<br/>
 2. What is cloud computing? A beginner's guide-Microsoft Azure. (n.d.). Retrieved July 08, 2017, from https://azure.microsoft.com/en-in/overview/what-is-cloud-computing/ 
 
 <a id='IoT'></a>
