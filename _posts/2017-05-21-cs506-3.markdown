@@ -14,16 +14,15 @@ There is a rising trend of ransomware affecting computers, particularly those th
 </ul>
 <p >While both types are targeted at denying access to something that you want, crypto-ransomware or encrypting ransomware is particularly harmful. How?</p>
 <p >Locker Ransomware, simply locks the user interface that stops you from accessing the system. It will not allow you to log into the system. In some cases, even the mouse and some of the keyboard functionalities are also denied. As the virus attack is on the user interface, chances are there that the underlying systems are safe, and hence the malware can be cleaned easily.</p>
-<p >In case of crypto ransomware, the condition is worse. The files and data are locked or encrypted such that it may result in absolute data loss. The data can range from person to person. For some, it may be a lost family album, while for a professional, it may be loss of an important financial report. Anything can be encrypted, be it any document, video, audio or any image. Thus, crypto ransomware directly hits your valuable data.</p>
-<p >So, what are the possibilities to protect your system from a ransomware attack? Or <strong>How to deal with a CryptoLocker?</strong></p>
-<h4>How to protect a computer from ransomware attack?</h4>
+<p >In case of crypto ransomware, the condition is worse. The files and data are locked or encrypted such that it may result in absolute data loss. The data can range from person to person. For some, it may be a lost family album, while for a professional, it may be loss of an important financial report. Anything can be encrypted, be it any document, video, audio or any image. Thus, crypto ransomware directly hits your valuable data.</p><br/>
+<h4>How to protect a computer from ransomware attack</h4>
 <p >Ransomware is definitely a serious threat to your computer system. Hence, precaution is always better than cure. If you are able to stop the virus from entering your PC, then you can rest assured of your data. But for that, you should know how you can fall victim to a ransomware attack:</p>
 <ul>
 <li><strong>Suspicious and spam emails</strong> are the secret paths for these intruders. You may receive some malicious emails probing you to download them. It may sound like &#8220;You have won the lucky draw, open attachment to claim your money.&#8221; Unknown email IDs and very similar looking brand names can mislead you to download a wrong attachment, and get malware installed on your system.</li>
 <li><strong>USB drives</strong> that are already infected with the virus. When you use your drives on multiple devices, most commonly on public computers, you might unknowingly invite viruses.</li>
 <li>Some viruses get installed while you are downloading third party software or exchanging files on a network.</li>
 <li>Following any link leading to a comprised or hacked website can also let the malware into your system from already-present malware on your systems.</li>
-</ul>
+</ul><br/>
 <p>Now that we know from where these malwares can enter your computer systems, let's have a look at the preventive measures.</p>
 <h4>Secure your email</h4>
 <p >Email protection against any intrusive, malicious, unrecognized mail ids can prove to be a great prevention against the malware. Taking an email hosting from trusted providers, will give you filtered access to your email, and protection from any intruder. The email service should also provide protection against spam. Also you should not:</p>
