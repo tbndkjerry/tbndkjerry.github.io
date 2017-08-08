@@ -1,0 +1,39 @@
+---
+layout: default
+img: None
+category: CS506
+title: Data Science and Uganda's journey to the Cloud.
+description: |
+---
+Virtually every sector of our economy now has access to more data than would have been imaginable even five (5) Years ago. From Agriculture, Tourism, Education, Health, and Telecommunication, businesses today are accumulating new data at a rate that exceeds their capacity to extract value from it. The question facing every Organization/Business that wants to attract a community is, how do we use all the available relevant data effectively? 
+
+<p>Our ability to derive economic value from the available data is limited by the lack of expertise. Working with new data requires distinctive new skills and tools. The corpuses are often too voluminous to fit on a single computer, to manipulate with traditional databases or statistical tools, or to represent using standard graphics software. The data is also more heterogeneous than the data of the past. Digitized text, audio, and visual content, like sensor and blog data, is typically messy, incomplete, and unstructured; it is often of uncertain provenance and quality; and frequently must be combined with other data to be useful. Working with user-generated data sets also raises challenging issues of privacy, security, and ethics.</p>
+<p>The field of <strong>data science</strong> is emerging at the intersection to employ techniques and theories drawn from many fields within the broad areas of mathematics, statistics, information science, and computer science, in particular from the subdomains of machine learning, classification, cluster analysis, data mining, databases, and visualization.</p>
+<br/>
+<h4> Cloud Computing </h4>
+<p>You are probably using cloud computing right now, even if you don’t realise it. If you use an online service to send and receive emails, edit documents, watch movies or youtube, listen to music, play games or store pictures and other files on say Google-Drive, it is likely that cloud computing is making it all possible behind the scenes. The first cloud computing services are barely a decade old, but already a variety of organizations. From small startups to global corporations, government agencies to non-profit organizations are embracing the technology for all sorts of reasons.</p>
+
+With the proliferation of cloud, Organizations are assessing their options to adopt cloud models to replace capital intensive IT infrastructure and support with more predicable operating expense models common with cloud-based services. The need for business agility, collaboration, and global reach are also leading many organizations to the cloud.
+
+<p> In Uganda, running an IT business like webhosting services can be a nightmare if you are to deploy the entire infrastructure by yourself with out out-sourcing. This is because the cost of acquiring (hardware/software) and operating (rent, electricity and Internet) is higher than out-sourcing the services from the cloud.  Read this article: <a href="http://www.observer.ug/lifestyle/52467-self-taught-ict-guru-ruraara-makes-shs-40m-from-ict-per-month.html" target="_blank">Self-taught ICT guru Ruraara makes Shs 40m from ICT per month.</a></p>
+<br/>
+<h4>Benefits of cloud computing</h4>
+<p>Cloud computing is a big shift from the traditional way businesses think about IT resources.</p> 
+<p><strong>Cost</strong><br/>
+Cloud computing eliminates the capital expense of buying hardware and software and setting up and running on-site datacenter, the racks of servers, the round-the-clock electricity for power and cooling, the IT experts for managing the infrastructure. It adds up fast.<br/>
+<strong>Speed</strong><br/>
+Most cloud computing services are provided self service and on demand, so even vast amounts of computing resources can be provisioned in minutes, typically with just a few mouse clicks, giving businesses a lot of flexibility and taking the pressure off capacity planning. <br/>
+<strong>Performance</strong><br/>
+The biggest cloud computing services run on a worldwide network of secure datacenters, which are regularly upgraded to the latest generation of fast and efficient computing hardware. This offers several benefits over a single corporate datacenter, including reduced network latency for applications and greater economies of scale.<br/>
+<strong>Reliability</strong><br/>
+Cloud computing makes data backup, disaster recovery and business continuity easier and less expensive, because data can be mirrored at multiple redundant sites on the cloud provider’s network.
+</p>
+
+<br/>
+<h4>References</h4>
+<br/>
+1. What is Data Science? (n.d.). Retrieved July 08, 2017, from https://datascience.berkeley.edu/about/what-is-data-science/  
+<br/>
+2. What is cloud computing? A beginner's guide-Microsoft Azure. (n.d.). Retrieved July 08, 2017, from https://azure.microsoft.com/en-in/overview/what-is-cloud-computing/ 
+
+<a id='IoT'></a>

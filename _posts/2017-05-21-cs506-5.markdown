@@ -28,3 +28,4 @@ It’s also used to optimize business processes. Retailers are able to optimize 
 <br/>
 2. How is Big Data Used in Practice? 10 Use Cases Everyone Must Read. (n.d.). Retrieved July 01, 2017, from https://www.ap-institute.com/big-data-articles/how-is-big-data-used-in-practice-10-use-cases-everyone-should-read 
 
+<a id='DataScience'></a>

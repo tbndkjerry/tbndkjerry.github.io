@@ -1,0 +1,9 @@
+---
+layout: default
+img: None
+category: CS506
+title: Mobile Computing & Internet of Things
+description: |
+---
+...
+

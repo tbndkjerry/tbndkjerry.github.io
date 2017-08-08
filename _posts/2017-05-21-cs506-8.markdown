@@ -1,0 +1,8 @@
+---
+layout: default
+img: iot.jpg
+category: CS506
+title: Mobile Computing & IoT
+description: |
+---
+... 
