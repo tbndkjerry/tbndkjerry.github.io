@@ -22,6 +22,10 @@ It’s also used to optimize business processes. Retailers are able to optimize 
 <p>Big data misuse is rampant especially when the rules and regulations are weak. We occasionally receive SMS text messages from Telecom Companies advertising their products which may not be a problem to some people but others may be offended by sending unsolicited love SMS text asking to link them to lovers. </p>
 <p>Those concerns are real and not to be taken lightly, and I believe that best practices, rules, and regulations will evolve alongside the big data technology to protect individuals.</p>
 <br/>
+<h2>Application Programming Interfaces (APIs)</h2>
+<p><strong>An application program interface (API)</strong> is set code that allows two software programs to communicate with each other(i.e. software to software exchange of data). APIs are sets of requirements that govern how one application can communicate and interact with another.</p>
+<p>This <a href="https://app.swaggerhub.com/apis/tbndkjerry/E-resuts/0.0.1" target="_blank"> link</a> is an example of RESTful APIs based on the swaggerhub platform</p>
+<br/>
 <h4>References</h4>
 <br/>
 1. Big data. (2017, June 30). Retrieved July 01, 2017, from https://en.wikipedia.org/wiki/Big_data 

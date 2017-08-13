@@ -2,7 +2,7 @@
 layout: default
 img: bigdata.jpg
 category: CS506
-title: Big Data
+title: Big Data & APIs
 description: |
 ---
 Everything we do is increasingly leaving a digital trace (or data), which we (and others) can use and analyse. 
