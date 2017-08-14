@@ -9,7 +9,7 @@ Ransomware is a <a href="https://en.wikipedia.org/wiki/Computer_virus" target="_
 There is a rising trend of ransomware affecting computers, particularly those that run Microsoft Windows Operating Systems. This virus will attack all files accessible from your computer, including those on Administrator Account and Local Drive. Unless you have an external backup, your files will be unrecoverable.
 <p >The horrible state of inaccessible files and computer systems, make ransomware one of the most dangerous malwares of our time. The market has witnessed two common types of such viruses:</p>
 <ul>
-<li><strong>Encrypting Ransomware:</strong> This particular malware encrypts the user files, networks and data, and demands a decryption price or ransom, mostly in bitcoin. <strong>CryptoLocker, Locky</strong> and <strong>CryptoWall</strong> are some of its examples.</li>
+<li><strong>Encrypting Ransomware:</strong> This particular malware encrypts the user files, networks and data, and demands a decryption price or ransom, mostly in bitcoin. <strong>CryptoLocker, Locky,CryptoWall</strong>and now <a href="https://en.wikipedia.org/wiki/WannaCry_ransomware_attack" target="_blank">WannaCry</a> are some of its examples.</li>
 <li><strong>Locker Ransomware:</strong> Infection by this ransomware will deny your access to the computer system. It will lock you out and will demand a ransom if you want to regain access. The common examples include <strong>&#8220;Police-themed&#8221;, ransomware</strong> and <strong>Winlocker.</strong></li>
 </ul>
 <p >While both types are targeted at denying access to something that you want, crypto-ransomware or encrypting ransomware is particularly harmful. How?</p>
