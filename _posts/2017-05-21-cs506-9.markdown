@@ -10,7 +10,7 @@ description: |
 <p><strong>Pervasive computing</strong></p>
 <p><strong>Pervasive</strong> means “EXISTING EVERYWHERE”. So <strong>Pervasive computing</strong> is an emerging trend associated with embedding microprocessors in day-to-day objects, allowing them to communicate information. Pervasive Computing devices are tiny, invisible microprocessors embedded in any type of objects like clothes, home, cars, watches etc. Also known as <strong>Ubiquitous Computing</strong>.
 </p>
-<p>Pervasive computing also has a number of applications, which range from home care and health, to geographical tracking and intelligent transport systems. Read this article: <a href="http://www.newvision.co.ug/new_vision/news/1426611/kato-develops-boda-boda-tracking" target="_blank">Kato develops boda boda tracking system.</a></p>
+<p>Pervasive computing also has a number of applications, which range from home care and health, to geographical tracking and intelligent transport systems. An example of such applications in Uganda can be found in this article: <a href="http://www.newvision.co.ug/new_vision/news/1426611/kato-develops-boda-boda-tracking" target="_blank">Kato develops boda boda tracking system.</a></p>
 <p><strong>...the move to 5G </strong></p>
 <p><strong>5G</strong> Means <strong>5th generation mobile networks </strong>or <strong>5th generation wireless systems.</strong> These are the proposed next telecommunications standards beyond the current 4G/IMT-Advanced standards.
 5G planning aims at higher capacity than current 4G, allowing a higher density of mobile broadband users, and supporting device-to-device, ultra reliable, and massive machine communications.</p>
