@@ -15,7 +15,7 @@ Virtually every sector of our economy now has access to more data than would hav
 
 With the proliferation of cloud, Organizations are assessing their options to adopt cloud models to replace capital intensive IT infrastructure and support with more predicable operating expense models common with cloud-based services. The need for business agility, collaboration, and global reach are also leading many organizations to the cloud.
 
-<p> In Uganda, running an IT business like webhosting services can be a nightmare if you are to deploy the entire infrastructure by yourself with out out-sourcing. This is because the cost of acquiring (hardware/software) and operating (rent, electricity and Internet) is higher than out-sourcing the services from the cloud. One example of similar challenges can be traced this article: <a href="http://www.observer.ug/lifestyle/52467-self-taught-ict-guru-ruraara-makes-shs-40m-from-ict-per-month.html" target="_blank">Self-taught ICT guru Ruraara makes Shs 40m from ICT per month.</a></p>
+<p> In Uganda, running an IT business like webhosting services can be a nightmare if you are to deploy the entire infrastructure by yourself with out out-sourcing. This is because the cost of acquiring (hardware/software) and operating (rent, electricity and Internet) is higher than out-sourcing the services from the cloud. Examples of similar challenges can be traced in this article: <a href="http://www.observer.ug/lifestyle/52467-self-taught-ict-guru-ruraara-makes-shs-40m-from-ict-per-month.html" target="_blank">Self-taught ICT guru Ruraara makes Shs 40m from ICT per month.</a></p>
 <br/>
 <h4>Benefits of cloud computing</h4>
 <p>Cloud computing is a big shift from the traditional way businesses think about IT resources.</p> 
